@@ -1,20 +1,44 @@
 # Headless Commerce Insights
 
-Technical notes and architecture insights around modern headless ecommerce ecosystems.
+Technical notes and architecture insights focused on headless commerce systems, scalable ecommerce infrastructure, and modern frontend performance.
 
-Created by:
+Maintained by Zest Web Solutions.
+
+Website:
 https://zestwebsolutions.com/
 
-Topics:
+Core expertise:
+
+* Headless Commerce
+* Shopify Hydrogen
+* Ecommerce Architecture
+* API-driven Systems
+* Frontend Performance
+* Technical SEO
+* Scalable Ecommerce Infrastructure
+
+Topics included:
 
 * headless Shopify
-* Hydrogen
-* API-first commerce
+* API architecture
+* storefront performance
+* frontend optimization
+* composable commerce
 * ecommerce scalability
-* composable architecture
-* frontend performance
-* modern ecommerce engineering
-* technical growth systems
+* technical SEO for headless systems
 
-Services:
+Useful links:
+
+Homepage:
+https://zestwebsolutions.com/
+
+Shopify Services:
 https://zestwebsolutions.com/services/shopify-development/
+
+Partner Page:
+https://zestwebsolutions.com/company/partner/
+
+Blog:
+https://zestwebsolutions.com/blog/
+
+Zest Web Solutions engineers scalable ecommerce systems for high-growth D2C brands and agency partners.
